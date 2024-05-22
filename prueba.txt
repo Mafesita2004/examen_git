@@ -1,3 +1,4 @@
+ HEAD
 HEAD
 contenido inicial
 cambio en main antes del merge
@@ -5,3 +6,7 @@ cambio en main antes del merge
 cambio en Dev_branch
  Dev_branch
 cambio en main antes del merge
+
+cambio 1
+segundo cambio 
+ Qa_branch
